@@ -141,15 +141,6 @@ Log file:
 /drone_log.txt
 ```
 
----
-
-## Project Structure
-
-```
-/src          → Arduino code (Wio Terminal)
-/enclosure    → Fusion360 + STL files
-/docs         → Images and diagrams
-README.md
 ```
 
 ---
