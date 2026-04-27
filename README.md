@@ -151,6 +151,8 @@ Log file:
 * https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/
 
 ---
+## Demo
+[https://www.pcbway.com/project/shareproject/Drone_Detection_9897c704.html](https://www.youtube.com/watch?v=HC7j8KhW98I)
 
 ## Notes
 
