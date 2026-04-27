@@ -22,6 +22,8 @@ Designed to be:
 * Low-cost
 * Modular and hackable
 
+(https://www.youtube.com/watch?v=HC7j8KhW98I)](https://www.youtube.com/watch?v=HC7j8KhW98I)
+
 ---
 
 ## Features
@@ -151,10 +153,6 @@ Log file:
 * https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/
 
 ---
-
-## Demo
-
-(https://www.youtube.com/watch?v=HC7j8KhW98I)](https://www.youtube.com/watch?v=HC7j8KhW98I)
 
 ## Notes
 
